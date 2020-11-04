@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# This GitHub account is getting used less and less. I'll start forking repositories to my self-hosted Gitea instance on https://git.sijanec.eu/.
+
+Sadly, GitHub started annoying me with DMCA takedowns and premium features. It's not free, face it.
+
+So I decided to set up my own Gitea instance on my own server to promote the fact that relying on corporations *sucks*.
+
+For freshest code, visit https://git.šijanec.eu/
+
+-- Anton.
+
 <!--
 **sijanec/sijanec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
