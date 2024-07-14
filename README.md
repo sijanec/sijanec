@@ -1,8 +1,8 @@
-# This Github account is abandoned. I am locked out due to forced 2FA.
+# I no longer use Github for hosting my repos
 
 I am now selfhosting my personal git service on <http://ni.šijanec.eu./>.
 
-# Ta Github profil je zapuščen, ker Github za prijavo sedaj zahteva dvostopenjsko avtentikacijo.
+# Za gostovanje repozitorijev Githuba več ne uporabljam
 
 Moja osebna spletna storitev Git je dostopna na <http://ni.šijanec.eu./>.
 
